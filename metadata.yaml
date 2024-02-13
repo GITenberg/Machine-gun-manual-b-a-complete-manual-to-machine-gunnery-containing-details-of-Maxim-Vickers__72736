@@ -1,0 +1,36 @@
+_repo: Machine-gun-manual-b-a-complete-manual-to-machine-gunnery-containing-details-of-Maxim-Vickers__72736
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglas, H. (Composer)
+    alias: Douglas, Harry
+    birthdate: 1882
+    deathdate: 1954
+    gutenberg_agent_id: '56790'
+    url: http://www.gutenberg.org/2009/agents/56790
+description: ''
+gutenberg_issued: '2024-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72736'
+language: en
+pgterms:marc904: https://archive.org/details/1917ukmachinegunmanual/page/n19/mode/2up
+pgterms:marc905: 20210825044228douglas
+pgterms:marc906: '1917'
+pgterms:marc907: GB
+production_note: Brian Coe, Thiers Halliwell, who created the book cover, which is
+  placed in the public domain, and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bHarrison and Sons, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Machine guns'
+- !lcsh 'Machine gun drill and tactics'
+- !lcc 'UF'
+- GITenberg
+title: 'Machine gun manual : $b a complete manual to machine gunnery, containing details
+  of Maxim, Vickers, Lewis, Colt, Hotchkiss, together with drill (elementary and advanced)
+  fire orders, notes from the front and a mass of other useful information'
+url: http://www.gutenberg.org/ebooks/72736
