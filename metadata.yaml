@@ -1,5 +1,8 @@
 _repo: Machine-gun-manual-b-a-complete-manual-to-machine-gunnery-containing-details-of-Maxim-Vickers__72736
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72736-h/images/cover.jpg
 creator:
   author:
     agent_name: Douglas, H. (Composer)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56790'
     url: http://www.gutenberg.org/2009/agents/56790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72736#Machine-gun-manual-b-a-complete-manual-to-machine-gunnery-containing-details-of-Maxim-Vickers_
 gutenberg_issued: '2024-01-17'
 gutenberg_type: Text
 identifiers:
